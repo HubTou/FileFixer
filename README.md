@@ -9,6 +9,8 @@ So here's a first partial version:
 * it has fully functional view modes
 * but it still lacks the edit functions (that I'll implement in 2022)
 
+![A screen capture of FileFixer](FileFixer.png)
+
 I'll also:
 * provide a Python Package for easy install
 * an internationalized version with at least French and English languages
