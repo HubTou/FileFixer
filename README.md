@@ -40,3 +40,5 @@ KEYBOARD EQUIVALENTS:
 NEW COMMANDS:
  [!] Cycle colors (from green, amber, gray, inverted gray monitors)
 ```
+
+You can try the original versions with the excellent [AppleWIn](https://github.com/AppleWin/AppleWin) Apple ]\[ emulator.
